@@ -1,4 +1,4 @@
 a=5
-b=10
+b=20
 add=a+b
-print(add)
+print(a+b)
